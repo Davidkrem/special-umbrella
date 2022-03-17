@@ -1,0 +1,26 @@
+{
+  "name": "special-umbrella",
+  "version": "1.0.0",
+  "description": "### David Kremenitzer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davidkrem/special-umbrella.git"
+  },
+  "author": "David Kremenitzer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davidkrem/special-umbrella/issues"
+  },
+  "homepage": "https://github.com/Davidkrem/special-umbrella#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "morgan": "^1.10.0",
+    "postgres": "^1.0.2",
+    "sequelize": "^6.17.0"
+  }
+}
