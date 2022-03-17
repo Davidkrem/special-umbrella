@@ -8,7 +8,8 @@ In the real world, a man has a mouth. His mouth can do operations like open/clos
 Use OOP Designs to make needed classes with methods to meet those requirements. You can use any language or
 pseudo-code to write down your results. */
 
-//write a Class for opening and closing mouth
+//write a Class for opening and closing mouth.
+
 class Man {
   constructor(name, isDoctor = false) {
     this.name = name;
